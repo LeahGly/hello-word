@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T09:57:31.841Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="ZBgJrnGsxpkxtVQHLeMc" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-16T10:03:50.562Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="lPN76sp-mkq803RQ5jqq" version="18.0.5" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -47,6 +47,19 @@
               <mxPoint x="570" y="430" />
               <mxPoint x="570" y="771" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NsayyPvm4-ttKUY7uxAQ-149" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;fontSize=14;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=2;curved=1;" edge="1" parent="1" source="29" target="NsayyPvm4-ttKUY7uxAQ-144">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="740" />
+              <mxPoint x="890" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NsayyPvm4-ttKUY7uxAQ-151" value="一个初级CI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#000000;" vertex="1" connectable="0" parent="NsayyPvm4-ttKUY7uxAQ-149">
+          <mxGeometry x="0.2205" y="6" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="29" value="工程能力&#xa;（构建一个完整的软件工程）" style="rounded=1;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
