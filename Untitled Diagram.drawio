@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T09:32:51.777Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="WH1YYx2NiA4qcp9G1cjD" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-16T09:43:58.636Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="Gi2Zpb6qtG9ssfDuMiSR" version="18.0.5" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -46,35 +46,36 @@
         <mxCell id="25" value="思维训练" style="rounded=1;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="350" y="380" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NsayyPvm4-ttKUY7uxAQ-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FF0000;" edge="1" parent="1" source="26" target="NsayyPvm4-ttKUY7uxAQ-123">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="NsayyPvm4-ttKUY7uxAQ-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#FF0000;strokeWidth=2;" edge="1" parent="1" source="26" target="NsayyPvm4-ttKUY7uxAQ-123">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="495.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="NsayyPvm4-ttKUY7uxAQ-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FF0000;" edge="1" parent="1" source="26" target="NsayyPvm4-ttKUY7uxAQ-125">
+        <mxCell id="NsayyPvm4-ttKUY7uxAQ-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;strokeWidth=2;" edge="1" parent="1" source="26" target="NsayyPvm4-ttKUY7uxAQ-125">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="280" y="496" />
-              <mxPoint x="235" y="496" />
-              <mxPoint x="235" y="570" />
-              <mxPoint x="190" y="570" />
+              <mxPoint x="240" y="496" />
+              <mxPoint x="240" y="591" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NsayyPvm4-ttKUY7uxAQ-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#FF0000;" edge="1" parent="1" source="26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="495.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="26" value="需求分析" style="rounded=1;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="280" y="465.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NsayyPvm4-ttKUY7uxAQ-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#FF0000;strokeWidth=2;" edge="1" parent="1" source="27" target="NsayyPvm4-ttKUY7uxAQ-129">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="686" />
+              <mxPoint x="240" y="660" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="NsayyPvm4-ttKUY7uxAQ-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.008;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;fontColor=#000000;strokeWidth=2;" edge="1" parent="1" source="27" target="NsayyPvm4-ttKUY7uxAQ-131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="27" value="测试覆盖" style="rounded=1;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="280" y="655.5" width="130" height="60" as="geometry" />
+        <mxCell id="27" value="测试设计" style="rounded=1;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="281" y="655.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NsayyPvm4-ttKUY7uxAQ-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;strokeWidth=2;" edge="1" parent="1" source="29" target="NsayyPvm4-ttKUY7uxAQ-133">
           <mxGeometry relative="1" as="geometry">
@@ -453,6 +454,20 @@
             <mxPoint x="77" y="135.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NsayyPvm4-ttKUY7uxAQ-136" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=14;fontColor=#000000;strokeWidth=2;endArrow=none;endFill=0;dashed=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NsayyPvm4-ttKUY7uxAQ-123" target="NsayyPvm4-ttKUY7uxAQ-131">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="466" />
+              <mxPoint x="10" y="760" />
+              <mxPoint x="80" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NsayyPvm4-ttKUY7uxAQ-137" value="证明你覆盖了所有客户想要的&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#000000;" vertex="1" connectable="0" parent="NsayyPvm4-ttKUY7uxAQ-136">
+          <mxGeometry x="-0.2354" y="11" relative="1" as="geometry">
+            <mxPoint x="79" y="196" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NsayyPvm4-ttKUY7uxAQ-123" value="必须做&#xa;（题目明确说的）&#xa;" style="rounded=1;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="70" y="465.5" width="130" height="60" as="geometry" />
         </mxCell>
@@ -460,9 +475,9 @@
           <mxGeometry x="70" y="545.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NsayyPvm4-ttKUY7uxAQ-129" value="简单" style="rounded=1;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="70" y="655.5" width="130" height="60" as="geometry" />
+          <mxGeometry x="75" y="630" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NsayyPvm4-ttKUY7uxAQ-131" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;完备&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="NsayyPvm4-ttKUY7uxAQ-131" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;全面&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="80" y="735.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NsayyPvm4-ttKUY7uxAQ-133" value="&lt;b&gt;必要的文档&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
